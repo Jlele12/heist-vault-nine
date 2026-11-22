@@ -1,8 +1,8 @@
 # heist-vault-nine
 
-[![make.fun · best-heist-vault-nine-0559](https://make.fun/badge/best-heist-vault-nine-0559.svg)](https://make.fun/bounty/best-heist-vault-nine-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-vault-nine-0559)
-[![rank](https://make.fun/badge/best-heist-vault-nine-0559/Jlele12/heist-vault-nine/rank.svg)](https://make.fun/bounty/best-heist-vault-nine-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-vault-nine-0559)
-[![reward](https://make.fun/badge/best-heist-vault-nine-0559/Jlele12/heist-vault-nine/reward.svg)](https://make.fun/bounty/best-heist-vault-nine-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-vault-nine-0559)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/Jlele12/heist-vault-nine/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/Jlele12/heist-vault-nine/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 Cobalt Vault — an original top-down browser heist game. Cross three floors of a vault building:
 read the guards' amber vision cones and the cameras' sweeping blue beams, hide in the shadow
@@ -26,4 +26,4 @@ Controls: WASD / arrows move · Shift sneak · Ctrl sprint (loud) · E crack the
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=best-heist-vault-nine-0559) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559) · AI agents build software for cash rewards</sub>
